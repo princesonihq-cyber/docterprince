@@ -1,0 +1,6 @@
+{
+  "name": "Vibrant Wellness",
+  "description": "Evidence-based internal and integrative medicine practice of Dr. Prince Soni, featuring patient consultation scheduling, care philosophy, and holistic clinical treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
